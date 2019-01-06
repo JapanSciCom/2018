@@ -219,7 +219,7 @@ footerBlocks:
 -
   title: "Contact / お問い合わせ"
   links:
-   - {"https://japanscicom.github.io/#team", text: "Visit the current JSF website / JSF ウェブサイトをご覧ください"}
+   - {"https://japanscicom.github.io/", text: "Visit the current JSF website / JSF ウェブサイトをご覧ください"}
 -
   title: "Code of Conduct / 参加者の心構え（行動規範）"
   links:
